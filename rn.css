@@ -1,0 +1,13 @@
+.head{
+    background-color: black;
+    color: rgb(148, 0, 145);
+    width: 700px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 80px;
+}
+.ol{
+    color: rgb(1, 145, 44);
+    margin-left: 150px;
+    font-size: 20px;
+}
